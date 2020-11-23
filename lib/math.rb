@@ -3,8 +3,6 @@ def addition(num1,num2)
     puts "#{sum}"
     sum
 end
-
-addition(4,5)
   
  
 end
